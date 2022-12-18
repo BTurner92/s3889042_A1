@@ -29,15 +29,6 @@ p {
     border-radius: 20px 40px 20px 40px;
 }
 
-.nav {
-    list-style-type: none;
-    text-align: center;
-}
-
-.nav li {
-    list-style-type: none;
-}
-
 section {
     border-top: 4px groove #5DFDCB;
     padding: 15px 0 20px 0;
