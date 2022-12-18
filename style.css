@@ -3,6 +3,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
     color: #FFC9B5;
+    text-align: justify;
 }
 
 #profilePhoto img {
@@ -18,8 +19,34 @@ p {
 
 #container {
     width: 85%;
-    max-width: 850px;
+    max-width: 950px;
     background: #2E3837;
     margin: 40px auto;
     padding: 20px;
+}
+
+section {
+    border-top: 4px groove #5DFDCB;
+    padding: 15px 0 0 0;
+}
+
+h1 {
+    font-size: 30px;
+    color: #5DFDCB;
+    margin: 5px auto;
+}
+
+h2 {
+    font-size: 2em;
+    color: #8789C0;
+    margin-left: 10px;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #FF8D70;
+    font-style: italic;
+}
+a {
+    color:#8789C0;
 }
